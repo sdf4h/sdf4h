@@ -3,6 +3,6 @@
 ## I am a Python programmer, I do cybersecurity, here I publish my projects
 
 ## Language and Tools
-![Flutter](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+![Flutter](https://img.shields.io/badge/-Flutter-#F19CBB)
 
 Follow me
