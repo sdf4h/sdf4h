@@ -12,3 +12,4 @@
 ![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go)
 
 ## follow me
+subscribe
