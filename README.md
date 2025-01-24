@@ -4,5 +4,5 @@
 
 ## Language and Tools
 ![Flutter](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-
+![Flutter](https://img.shields.io/badge/-Cpp-090909?style=for-the-badge&logo=cpp)
 Follow me
