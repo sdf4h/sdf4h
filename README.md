@@ -7,4 +7,7 @@
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C++)
 ![Flutter](https://img.shields.io/badge/-Tensorflow-090909?style=for-the-badge&logo=Tensorflow)
 ![Flutter](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sql)
+
+## plans to learn languages
+![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go)
 Follow me
