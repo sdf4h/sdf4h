@@ -13,5 +13,6 @@
 
 ## follow me
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdf4h)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdf4h&theme=solarized_dark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
